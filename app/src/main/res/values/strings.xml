@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TabHost-Activity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tab1">Tab1 Activity</string>
+    <string name="title_activity_tab2">Tab2 Activity</string>
+    <string name="title_activity_tab3">Tab3 Activity</string>
+</resources>
